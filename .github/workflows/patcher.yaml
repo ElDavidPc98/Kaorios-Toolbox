@@ -3,7 +3,7 @@ name: Framework Patcher
 on:
   workflow_dispatch:
     inputs:
-      framework_url:
+      framework_url:https://pixeldrain.com/u/aC7j6cos
         description: 'Direct URL to framework.jar'
         required: true
 
